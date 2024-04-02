@@ -1,0 +1,16 @@
+body{
+  margin:0;
+  background: #b0ee0688;
+}
+
+header{
+  background-color: rgb(17, 5, 49);
+  padding: 1rem;
+  color: azure;
+}
+header a{
+  color:#ffffff;
+  font-weight:bold;
+  font-size: 3rem;
+  text-decoration:none ;
+}
